@@ -88,10 +88,3 @@ mixing code with design, music and art.
 
 Thai (native) · English (IELTS 6.5) · Japanese (JLPT N5)
 
----
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Patcharada37778&show_icons=true&hide_border=true&count_private=true)
-
-</div>
