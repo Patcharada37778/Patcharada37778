@@ -8,7 +8,7 @@ I build AI-powered products, web apps and iOS apps that make learning and health
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patcharada-tawaditap/)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:patcharada37778@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222222?logo=githubpages&logoColor=white)](https://patcharada37778.github.io/Patcharada-CEDT-Intern-Portfolio.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?logo=githubpages&logoColor=white)](https://patcharada-tawaditap-portfolio.vercel.app)
 [![WWDC Scholars](https://img.shields.io/badge/WWDC%20Scholars-000000?logo=apple&logoColor=white)](https://www.wwdcscholars.com/s/B8B3491E-3CEE-4363-A9A8-B4BF0C7FDB55/2024)
 ![Location](https://img.shields.io/badge/Bangkok%2C%20Thailand-🇹🇭-lightgrey)
 
