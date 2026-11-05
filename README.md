@@ -45,7 +45,6 @@ I build AI-powered products, web apps and iOS apps that make learning and health
 |---|---|---|---|
 | **EiPCA** | Copyrighted 3-electrode ECG device that calculates 12-lead diagnostic data, validated on 1,000+ clinical recordings (MIT-BIH) | Hardware · AI · Web | [ISEF project](https://partner.projectboard.world/isef/project/tmed041t-eipca-portable-12-lead-ecg-rapid-cvd-screening) |
 | **[PolyChat](https://github.com/Patcharada37778/PolyChat)** | Multi-model AI chat app (Claude, GPT, Gemini) with PDF, Word and PowerPoint export | Next.js · TypeScript · Supabase | [Live](https://poly-chat-tau.vercel.app) |
-| **[VBEYOND ARMS](https://github.com/Patcharada37778/VBeyond_Capstone_Yogurt)** | Capstone: agent relationship management system prototype | React 19 · Vite · Bootstrap | [Live](https://vbeyond-capstone-yogurt.vercel.app) |
 | **Good Morning Monday** | Turn-based life-simulation game; led a team of 4 as main programmer | Java · OOP | — |
 | **[EmbeddedYogurt](https://github.com/Patcharada37778/EmbeddedYogurt)** | Smart home dashboard for an embedded systems project | HTML · CSS · JavaScript | [Live](https://embedded-yogurt.vercel.app) |
 | **[HadBaLi](https://github.com/Patcharada37778/HadBaLi)** | Team web app (fork) | Next.js · TypeScript · Tailwind | [Live](https://had-ba-li.vercel.app) |
